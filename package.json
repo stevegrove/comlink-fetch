@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/jadjoubran/comlink-fetch#readme",
   "dependencies": {
-    "comlinkjs": "^2.3.1"
+    "comlink": "^4.3.0"
   }
 }
