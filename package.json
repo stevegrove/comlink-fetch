@@ -1,6 +1,6 @@
 {
   "name": "comlink-fetch",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "A Web worker fetch wrapper using comlink ",
   "main": "src/fetch.worker.js",
   "directories": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jadjoubran/comlink-fetch.git"
+    "url": "git+https://github.com/stevegrove/comlink-fetch.git"
   },
   "keywords": [
     "fetch",
@@ -23,9 +23,9 @@
   "author": "Jad Joubran",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jadjoubran/comlink-fetch/issues"
+    "url": "https://github.com/stevegrove/comlink-fetch/issues"
   },
-  "homepage": "https://github.com/jadjoubran/comlink-fetch#readme",
+  "homepage": "https://github.com/stevegrove/comlink-fetch#readme",
   "dependencies": {
     "comlink": "^4.3.0"
   }
